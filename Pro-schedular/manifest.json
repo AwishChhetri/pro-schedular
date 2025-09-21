@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Pro-schedular",
+    "version": "1.0.0",
+    "description": "An application for impoving productivity.",
+    "action":{
+        "default_popup": "popup/index.html",
+        "default_icon":"assets/logo.jpg"
+    }
+}
